@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/243148219?s=220&v=4" alt="EVzone logo" width="150" />
+<img src="./assets/evzone-landscape.webp" alt="EVzone Group" width="520" />
 
 # EVzone Group
 
 ### Building connected infrastructure for electric mobility and digital services
 
-EVzone develops technology that brings together **electric mobility, charging, transport, payments, commerce, communications, and intelligent operations** in one connected ecosystem.
-
-<br />
-
-[![Electric Mobility](https://img.shields.io/badge/Electric%20Mobility-00C896?style=for-the-badge&logo=lightning&logoColor=white)](https://github.com/EVzone-Group-Dev)
-[![Digital Payments](https://img.shields.io/badge/Digital%20Payments-F68B1F?style=for-the-badge&logo=wallet&logoColor=white)](https://github.com/EVzone-Group-Dev)
-[![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-0B1F33?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/EVzone-Group-Dev)
+EVzone is creating a unified ecosystem that brings together **electric mobility, charging, transport, payments, commerce, education, healthcare, communications, and intelligent operations**.
 
 **Built in Africa. Designed for global scale.**
 
@@ -22,22 +16,36 @@ EVzone develops technology that brings together **electric mobility, charging, t
 
 ## About EVzone
 
-EVzone is building a unified technology ecosystem for the transition to cleaner, smarter, and more connected services.
+EVzone develops secure, interoperable, and scalable digital platforms for people, businesses, mobility operators, institutions, and public-service partners.
 
-Our platforms are designed to help individuals, businesses, operators, institutions, and public-service partners access dependable digital infrastructure through secure applications, interoperable services, and scalable platform foundations.
+Our goal is to make essential services work together through shared identity, trusted payments, intelligent automation, connected infrastructure, and consistent user experiences.
 
-## What We Build
+## Our Platform Ecosystem
 
-| Ecosystem | Focus |
+<div align="center">
+  <img src="./assets/platform-ecosystem.webp" alt="EVzone platform ecosystem logos" width="100%" />
+</div>
+
+### Core platform areas
+
+| Platform area | What we are building |
 |---|---|
-| ⚡ **EV Charging & Energy** | Public and private charging, charge-point operations, station management, roaming, battery swapping, fleet charging, and energy services |
-| 🚘 **Mobility & Transport** | Rider and driver experiences, dispatch, school transport, fleet operations, vehicle services, and mobility administration |
-| 💳 **EVzone Pay** | Personal wallets, organization payments, peer-to-peer transactions, collections, settlements, and embedded payment services |
-| 🛒 **Digital Commerce** | Buyer, seller, marketplace, retail, service-commerce, and creator platforms |
-| 🤖 **AI & Communications** | Intelligent assistants, messaging, workflow automation, customer engagement, and machine-learning services |
-| 🏫 **Connected Services** | Education, safety, tracking, events, healthcare, travel, and other ecosystem applications |
+| **EV Charging & Energy** | Public and private charging, charge-point operations, station management, roaming, battery swapping, fleet charging, and energy services |
+| **Mobility & Transport** | Rider and driver applications, dispatch, school transport, fleet operations, vehicle services, and mobility administration |
+| **EVzone Pay** | Personal wallets, peer-to-peer payments, collections, settlements, and embedded payment services |
+| **CorporatePay** | Organization wallets, controlled spending, approvals, business payments, and financial operations |
+| **AI & Communications** | Intelligent assistants, messaging, workflow automation, customer engagement, and machine-learning services |
+| **Connected Services** | Education, healthcare, travel, investments, safety, tracking, events, and other ecosystem applications |
 
-## Our Platform Direction
+## Marketplace & Service Brands
+
+<div align="center">
+  <img src="./assets/marketplace-brands.webp" alt="EVzone marketplace and service brands" width="100%" />
+</div>
+
+Our commerce ecosystem supports specialized marketplace experiences across mobility, services, property, lifestyle, education, healthcare, faith, electronics, general retail, and rapid delivery.
+
+## Platform Direction
 
 ```mermaid
 flowchart LR
@@ -50,7 +58,7 @@ flowchart LR
     C --> G[Commerce & Services]
     C --> H[AI & Communications]
 
-    D --> I[Connected EV Ecosystem]
+    D --> I[Connected EVzone Ecosystem]
     E --> I
     F --> I
     G --> I
@@ -61,11 +69,11 @@ We are working toward an ecosystem where users can move between services with a 
 
 ## Engineering Principles
 
-- **Security by design** — identity, authorization, privacy, auditing, and secure financial operations are treated as foundational requirements.
-- **Interoperability first** — open standards and well-defined APIs enable systems, partners, vehicles, chargers, and services to work together.
-- **API-driven architecture** — reusable platform services reduce duplication and support web, mobile, operator, and partner experiences.
-- **Scalable foundations** — systems are designed for reliability, observability, fault tolerance, and progressive regional growth.
-- **Backend authority** — critical states, balances, permissions, pricing, and operational workflows are controlled by trusted backend services.
+- **Security by design** — identity, authorization, privacy, auditing, and secure financial operations are foundational requirements.
+- **Interoperability first** — open standards and well-defined APIs connect partners, vehicles, chargers, services, and applications.
+- **Backend authority** — critical balances, permissions, pricing, payment states, and operational workflows are controlled by trusted backend services.
+- **Scalable foundations** — systems are designed for reliability, observability, resilience, and progressive regional growth.
+- **Reusable platform services** — shared capabilities reduce duplication across web, mobile, operator, and partner experiences.
 - **Sustainable innovation** — every product should contribute to cleaner mobility, broader access, and efficient digital infrastructure.
 
 ## Technology
@@ -105,11 +113,11 @@ Please do not publish suspected vulnerabilities, credentials, customer informati
 
 Report security concerns privately to an EVzone organization administrator or through the official security contact provided by the relevant repository.
 
-## Explore EVzone
+---
 
 <div align="center">
 
-[![View EVzone Repositories](https://img.shields.io/badge/View%20Our%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/EVzone-Group-Dev/repositories)
+[![Explore EVzone Repositories](https://img.shields.io/badge/Explore%20EVzone%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/EVzone-Group-Dev/repositories)
 
 <br />
 
