@@ -1,8 +1,3 @@
-<!--
-  EVzone Group organization profile README
-  Display path on GitHub: EVzone-Group-Dev/.github/profile/README.md
--->
-
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/243148219?s=220&v=4" alt="EVzone logo" width="150" />
